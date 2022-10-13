@@ -1,6 +1,6 @@
 const http = require('xmlhttprequest').XMLHttpRequest
 
-const  url= "https://pokeapi.co/api/v2/type"
+const  url= "https://rickandmortyapi.com/api/character"
 
 
 //Función para conectarnos a una API publica
